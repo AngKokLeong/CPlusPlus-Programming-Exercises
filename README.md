@@ -1,2 +1,2 @@
-# C--Programming-Exercises
+# C++ Programming Exercises
 Practice C++ Exercises
