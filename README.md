@@ -1,6 +1,4 @@
 # C++ Programming Exercises
-Practice C++ 20 Exercises
 
-
-C++ 17
-C++ 20
+Todo: Create new folder for each technology practiced and within this folder create
+new folder for each version of the technology practiced
